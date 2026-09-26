@@ -95,6 +95,25 @@ E-Commerce-Sales-Analysis/
 
 ## Conclusion
 
-This project demonstrates how Python-based exploratory data analysis can be used to transform raw e-commerce data into meaningful business insights.
+This project demonstrates how Python-based exploratory data analysis can be used to transform
+raw e-commerce data into meaningful business insights.
 
-The analysis provides a structured view of sales performance across products, locations, customer demographics, payment methods, quantities, and time periods.
+The analysis provides a structured view of sales performance across
+products, locations, customer demographics, payment methods, quantities, and time periods.
+
+## Visualizations
+
+The project includes visual analysis of:
+
+- Sales by Product Category
+- Top 10 Products by Sales
+- Sales by City
+- Sales by Gender
+- Sales by Age Group
+- Sales by Payment Method
+- Monthly Sales Trends
+- Yearly Sales Comparison
+- Quantity vs Sales
+- Category-wise Sales Distribution
+
+These visualizations help identify sales patterns, customer behavior, product performance, and business trends.
